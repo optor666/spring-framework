@@ -43,3 +43,9 @@ class DispatcherServlet {
 }
 ```
 8. 请求处理流程图（左边是 Interceptor 相关方法的调用位置、中间是 doDispatch 处理流程图、右边是 doDispatch 方法处理过程中所涉及的组件):
+![image](https://github.com/optor666/spring-framework/assets/32811372/475ee244-e796-453c-88d3-505f8fe8c6a1)
+![image](https://github.com/optor666/spring-framework/assets/32811372/b0fbad3f-dda3-47b0-83bb-596bf469234e)
+![image](https://github.com/optor666/spring-framework/assets/32811372/53eb24ac-969b-44a0-b738-87effab6a115)
+
+
+
