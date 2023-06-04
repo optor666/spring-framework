@@ -10,6 +10,7 @@
 ./gradlew install
 ./gradlew build
 ```
-5. 执行命令 `./gradlew tasks` 查看支持的任务；
-6. 执行如下任务：`./gradlew idea`；
-7. 使用 IDEA 打开项目；
+5. 若执行上述命令有错误，比如无法正确下载某个某个依赖，可能是阿里依赖源的问题，如下图这样，这是同时使用新老依赖源：
+6. 执行命令 `./gradlew tasks` 查看支持的任务；
+7. 执行如下任务：`./gradlew idea`；
+8. 使用 IDEA 打开项目；
